@@ -15,8 +15,7 @@ We specialize in creating professional, fully functional websites that cater to 
   - HTML5, CSS3, JavaScript
   - React, Redux, Tailwind CSS, Bootstrap
 - **Backend**:
-  - .NET, ASP.NET Core
-  - Entity Framework, SQL Server
+  - Node.js, Express.js
   - MongoDB, MySQL
 - **Tools**:
   - Git, GitHub, VS Code, Terminal
